@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Cloud Support and DevOps
 - 🌱 I’m currently learning FullStack and Python
-- 👯 I’m looking to collaborate on company projects
+- 👯 I’m looking to collaborate on BY company projects such as Crystal Ball
 - 🤔 I’m looking for help with Web development and API's
 - 💬 Ask me about CATMAN Technical Support
 - 📫 How to reach me: mauricio.maldonado@blueyonder.com
